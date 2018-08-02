@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "428128919299",
+    "firebase_url": "https://mosca-in.firebaseio.com",
+    "project_id": "mosca-in",
+    "storage_bucket": "mosca-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428128919299:android:883a40cf273d5f26",
+        "android_client_info": {
+          "package_name": "ws.mosca.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428128919299-p7qdhb3el2qfkciqniv6306ea5gl5per.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ws.mosca.android",
+            "certificate_hash": "acae9b25425b9d877398cad883016821b090900e"
+          }
+        },
+        {
+          "client_id": "428128919299-2hekg9tu97fjqts6nngin9b8auankmf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4w_1G_S0ltbJQgGUg5zQilBcBSA1KJv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428128919299-2hekg9tu97fjqts6nngin9b8auankmf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428128919299-2t40ejnnbeoks0j78thek9p0jqm1pf8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ws.mosca.ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
